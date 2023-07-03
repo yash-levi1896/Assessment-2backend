@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Chandra",
+      "age": "30",
+      "place": "Visakhapatnam",
+      "batch_name": "Web-21",
+      "profession": "FSD",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    }
+  ]
+}
